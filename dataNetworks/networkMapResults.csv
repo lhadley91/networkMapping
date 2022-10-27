@@ -1,0 +1,689 @@
+,Product,Origin,Destination
+0,Green Grams,Eldoret,Meru
+0,Green Grams,Eldoret,Nakuru
+0,Green Grams,Eldoret,Kisumu
+0,Green Grams,Gulu,Lira
+0,Green Grams,Kisumu,Nakuru
+0,Green Grams,Kisumu,Eldoret
+0,Green Grams,Kisumu,Nairobi
+0,Green Grams,Lira,Soroti
+0,Green Grams,Lira,Gulu
+0,Green Grams,Machakos,Meru
+0,Green Grams,Machakos,Makueni
+0,Green Grams,Machakos,Mombasa
+0,Green Grams,Machakos,Nairobi
+0,Green Grams,Makueni,Machakos
+0,Green Grams,Makueni,Meru
+0,Green Grams,Makueni,Mombasa
+0,Green Grams,Makueni,Nairobi
+0,Green Grams,Meru,Makueni
+0,Green Grams,Meru,Nakuru
+0,Green Grams,Meru,Machakos
+0,Green Grams,Meru,Eldoret
+0,Green Grams,Meru,Nairobi
+0,Green Grams,Mombasa,Machakos
+0,Green Grams,Mombasa,Makueni
+0,Green Grams,Mombasa,Nairobi
+0,Green Grams,Nairobi,Makueni
+0,Green Grams,Nairobi,Nakuru
+0,Green Grams,Nairobi,Mombasa
+0,Green Grams,Nairobi,Machakos
+0,Green Grams,Nairobi,Meru
+0,Green Grams,Nairobi,Kisumu
+0,Green Grams,Nakuru,Meru
+0,Green Grams,Nakuru,Eldoret
+0,Green Grams,Nakuru,Kisumu
+0,Green Grams,Nakuru,Nairobi
+0,Green Grams,Soroti,Lira
+0,Maize,Arusha,Gitega
+0,Maize,Arusha,Makueni
+0,Maize,Arusha,Nakuru
+0,Maize,Arusha,Nairobi
+0,Maize,Arusha,Kampala
+0,Maize,Arusha,Mombasa
+0,Maize,Arusha,Machakos
+0,Maize,Arusha,Dodoma
+0,Maize,Arusha,Kisumu
+0,Maize,Arusha,Bujumbura
+0,Maize,Bujumbura,Gitega
+0,Maize,Bujumbura,Arusha
+0,Maize,Bujumbura,Kamembe
+0,Maize,Bujumbura,Ngozi
+0,Maize,Busia,Kasese
+0,Maize,Busia,Mbale
+0,Maize,Busia,Soroti
+0,Maize,Busia,Kampala
+0,Maize,Busia,Masindi
+0,Maize,Busia,Tororo
+0,Maize,Busia,Eldoret
+0,Maize,Busia,Kisumu
+0,Maize,Dodoma,Gitega
+0,Maize,Dodoma,Arusha
+0,Maize,Eldoret,Mbale
+0,Maize,Eldoret,Nakuru
+0,Maize,Eldoret,Busia
+0,Maize,Eldoret,Tororo
+0,Maize,Eldoret,Meru
+0,Maize,Eldoret,Kisumu
+0,Maize,Gitega,Kigali
+0,Maize,Gitega,Arusha
+0,Maize,Gitega,Ngozi
+0,Maize,Gitega,Dodoma
+0,Maize,Gitega,Bujumbura
+0,Maize,Gulu,Masindi
+0,Maize,Gulu,Lira
+0,Maize,Kabale,Kasese
+0,Maize,Kabale,Ruhengeri
+0,Maize,Kabale,Mulindi
+0,Maize,Kamembe,Kigali
+0,Maize,Kamembe,Rubavu
+0,Maize,Kamembe,Bujumbura
+0,Maize,Kamembe,Ngozi
+0,Maize,Kampala,Kasese
+0,Maize,Kampala,Mbale
+0,Maize,Kampala,Soroti
+0,Maize,Kampala,Nakuru
+0,Maize,Kampala,Busia
+0,Maize,Kampala,Arusha
+0,Maize,Kampala,Masindi
+0,Maize,Kampala,Tororo
+0,Maize,Kampala,Kisumu
+0,Maize,Kampala,Nairobi
+0,Maize,Kasese,Kabale
+0,Maize,Kasese,Mbale
+0,Maize,Kasese,Soroti
+0,Maize,Kasese,Kampala
+0,Maize,Kasese,Busia
+0,Maize,Kasese,Ruhengeri
+0,Maize,Kasese,Masindi
+0,Maize,Kasese,Tororo
+0,Maize,Kigali,Kamembe
+0,Maize,Kigali,Gitega
+0,Maize,Kigali,Ruhengeri
+0,Maize,Kigali,Ngozi
+0,Maize,Kigali,Mulindi
+0,Maize,Kisumu,Mbale
+0,Maize,Kisumu,Nakuru
+0,Maize,Kisumu,Kampala
+0,Maize,Kisumu,Busia
+0,Maize,Kisumu,Arusha
+0,Maize,Kisumu,Tororo
+0,Maize,Kisumu,Eldoret
+0,Maize,Kisumu,Nairobi
+0,Maize,Lira,Soroti
+0,Maize,Lira,Masindi
+0,Maize,Lira,Gulu
+0,Maize,Machakos,Makueni
+0,Maize,Machakos,Arusha
+0,Maize,Machakos,Mombasa
+0,Maize,Machakos,Meru
+0,Maize,Machakos,Nairobi
+0,Maize,Makueni,Arusha
+0,Maize,Makueni,Mombasa
+0,Maize,Makueni,Machakos
+0,Maize,Makueni,Meru
+0,Maize,Makueni,Nairobi
+0,Maize,Masindi,Kasese
+0,Maize,Masindi,Mbale
+0,Maize,Masindi,Soroti
+0,Maize,Masindi,Kampala
+0,Maize,Masindi,Busia
+0,Maize,Masindi,Lira
+0,Maize,Masindi,Tororo
+0,Maize,Masindi,Gulu
+0,Maize,Mbale,Kasese
+0,Maize,Mbale,Soroti
+0,Maize,Mbale,Kampala
+0,Maize,Mbale,Busia
+0,Maize,Mbale,Masindi
+0,Maize,Mbale,Tororo
+0,Maize,Mbale,Eldoret
+0,Maize,Mbale,Kisumu
+0,Maize,Meru,Makueni
+0,Maize,Meru,Nakuru
+0,Maize,Meru,Machakos
+0,Maize,Meru,Eldoret
+0,Maize,Meru,Nairobi
+0,Maize,Mombasa,Machakos
+0,Maize,Mombasa,Makueni
+0,Maize,Mombasa,Arusha
+0,Maize,Mombasa,Nairobi
+0,Maize,Mulindi,Kigali
+0,Maize,Mulindi,Ruhengeri
+0,Maize,Mulindi,Kabale
+0,Maize,Nairobi,Makueni
+0,Maize,Nairobi,Nakuru
+0,Maize,Nairobi,Kampala
+0,Maize,Nairobi,Arusha
+0,Maize,Nairobi,Mombasa
+0,Maize,Nairobi,Machakos
+0,Maize,Nairobi,Meru
+0,Maize,Nairobi,Kisumu
+0,Maize,Nakuru,Kampala
+0,Maize,Nakuru,Arusha
+0,Maize,Nakuru,Meru
+0,Maize,Nakuru,Eldoret
+0,Maize,Nakuru,Kisumu
+0,Maize,Nakuru,Nairobi
+0,Maize,Ngozi,Kamembe
+0,Maize,Ngozi,Gitega
+0,Maize,Ngozi,Kigali
+0,Maize,Ngozi,Rubavu
+0,Maize,Ngozi,Bujumbura
+0,Maize,Rubavu,Ruhengeri
+0,Maize,Rubavu,Kamembe
+0,Maize,Rubavu,Ngozi
+0,Maize,Ruhengeri,Kasese
+0,Maize,Ruhengeri,Kabale
+0,Maize,Ruhengeri,Kigali
+0,Maize,Ruhengeri,Rubavu
+0,Maize,Ruhengeri,Mulindi
+0,Maize,Soroti,Kasese
+0,Maize,Soroti,Mbale
+0,Maize,Soroti,Kampala
+0,Maize,Soroti,Busia
+0,Maize,Soroti,Masindi
+0,Maize,Soroti,Lira
+0,Maize,Soroti,Tororo
+0,Maize,Tororo,Kasese
+0,Maize,Tororo,Mbale
+0,Maize,Tororo,Soroti
+0,Maize,Tororo,Kampala
+0,Maize,Tororo,Busia
+0,Maize,Tororo,Masindi
+0,Maize,Tororo,Eldoret
+0,Maize,Tororo,Kisumu
+0,Millet,Busia,Kasese
+0,Millet,Busia,Soroti
+0,Millet,Busia,Kampala
+0,Millet,Busia,Masindi
+0,Millet,Busia,Tororo
+0,Millet,Busia,Eldoret
+0,Millet,Busia,Kisumu
+0,Millet,Eldoret,Nakuru
+0,Millet,Eldoret,Busia
+0,Millet,Eldoret,Tororo
+0,Millet,Eldoret,Meru
+0,Millet,Eldoret,Kisumu
+0,Millet,Gulu,Masindi
+0,Millet,Gulu,Lira
+0,Millet,Kabale,Kasese
+0,Millet,Kabale,Ruhengeri
+0,Millet,Kabale,Mulindi
+0,Millet,Kampala,Kasese
+0,Millet,Kampala,Soroti
+0,Millet,Kampala,Nakuru
+0,Millet,Kampala,Busia
+0,Millet,Kampala,Masindi
+0,Millet,Kampala,Tororo
+0,Millet,Kampala,Kisumu
+0,Millet,Kampala,Nairobi
+0,Millet,Kasese,Kabale
+0,Millet,Kasese,Soroti
+0,Millet,Kasese,Kampala
+0,Millet,Kasese,Busia
+0,Millet,Kasese,Ruhengeri
+0,Millet,Kasese,Masindi
+0,Millet,Kasese,Tororo
+0,Millet,Kisumu,Nakuru
+0,Millet,Kisumu,Kampala
+0,Millet,Kisumu,Busia
+0,Millet,Kisumu,Tororo
+0,Millet,Kisumu,Eldoret
+0,Millet,Kisumu,Nairobi
+0,Millet,Lira,Soroti
+0,Millet,Lira,Masindi
+0,Millet,Lira,Gulu
+0,Millet,Masindi,Kasese
+0,Millet,Masindi,Soroti
+0,Millet,Masindi,Kampala
+0,Millet,Masindi,Busia
+0,Millet,Masindi,Lira
+0,Millet,Masindi,Tororo
+0,Millet,Masindi,Gulu
+0,Millet,Meru,Nakuru
+0,Millet,Meru,Eldoret
+0,Millet,Meru,Nairobi
+0,Millet,Mulindi,Ruhengeri
+0,Millet,Mulindi,Kabale
+0,Millet,Nairobi,Meru
+0,Millet,Nairobi,Nakuru
+0,Millet,Nairobi,Kisumu
+0,Millet,Nairobi,Kampala
+0,Millet,Nakuru,Kampala
+0,Millet,Nakuru,Meru
+0,Millet,Nakuru,Eldoret
+0,Millet,Nakuru,Kisumu
+0,Millet,Nakuru,Nairobi
+0,Millet,Ruhengeri,Kasese
+0,Millet,Ruhengeri,Mulindi
+0,Millet,Ruhengeri,Kabale
+0,Millet,Soroti,Kasese
+0,Millet,Soroti,Kampala
+0,Millet,Soroti,Busia
+0,Millet,Soroti,Masindi
+0,Millet,Soroti,Lira
+0,Millet,Soroti,Tororo
+0,Millet,Tororo,Kasese
+0,Millet,Tororo,Soroti
+0,Millet,Tororo,Kampala
+0,Millet,Tororo,Busia
+0,Millet,Tororo,Masindi
+0,Millet,Tororo,Eldoret
+0,Millet,Tororo,Kisumu
+0,Mixed Beans,Bujumbura,Rubavu
+0,Mixed Beans,Bujumbura,Ngozi
+0,Mixed Beans,Busia,Kasese
+0,Mixed Beans,Busia,Kampala
+0,Mixed Beans,Busia,Masindi
+0,Mixed Beans,Busia,Tororo
+0,Mixed Beans,Busia,Eldoret
+0,Mixed Beans,Busia,Kisumu
+0,Mixed Beans,Eldoret,Busia
+0,Mixed Beans,Eldoret,Tororo
+0,Mixed Beans,Eldoret,Kisumu
+0,Mixed Beans,Gulu,Masindi
+0,Mixed Beans,Gulu,Lira
+0,Mixed Beans,Kabale,Kasese
+0,Mixed Beans,Kabale,Ruhengeri
+0,Mixed Beans,Kabale,Mulindi
+0,Mixed Beans,Kampala,Kasese
+0,Mixed Beans,Kampala,Busia
+0,Mixed Beans,Kampala,Masindi
+0,Mixed Beans,Kampala,Lira
+0,Mixed Beans,Kampala,Tororo
+0,Mixed Beans,Kampala,Kisumu
+0,Mixed Beans,Kasese,Kabale
+0,Mixed Beans,Kasese,Kampala
+0,Mixed Beans,Kasese,Busia
+0,Mixed Beans,Kasese,Ruhengeri
+0,Mixed Beans,Kasese,Masindi
+0,Mixed Beans,Kasese,Tororo
+0,Mixed Beans,Kisumu,Busia
+0,Mixed Beans,Kisumu,Tororo
+0,Mixed Beans,Kisumu,Eldoret
+0,Mixed Beans,Kisumu,Kampala
+0,Mixed Beans,Lira,Kampala
+0,Mixed Beans,Lira,Masindi
+0,Mixed Beans,Lira,Gulu
+0,Mixed Beans,Masindi,Kasese
+0,Mixed Beans,Masindi,Kampala
+0,Mixed Beans,Masindi,Busia
+0,Mixed Beans,Masindi,Lira
+0,Mixed Beans,Masindi,Tororo
+0,Mixed Beans,Masindi,Gulu
+0,Mixed Beans,Mulindi,Ruhengeri
+0,Mixed Beans,Mulindi,Kabale
+0,Mixed Beans,Ngozi,Ruhengeri
+0,Mixed Beans,Ngozi,Rubavu
+0,Mixed Beans,Ngozi,Bujumbura
+0,Mixed Beans,Rubavu,Ruhengeri
+0,Mixed Beans,Rubavu,Bujumbura
+0,Mixed Beans,Rubavu,Ngozi
+0,Mixed Beans,Ruhengeri,Kasese
+0,Mixed Beans,Ruhengeri,Kabale
+0,Mixed Beans,Ruhengeri,Ngozi
+0,Mixed Beans,Ruhengeri,Rubavu
+0,Mixed Beans,Ruhengeri,Mulindi
+0,Mixed Beans,Tororo,Kasese
+0,Mixed Beans,Tororo,Kampala
+0,Mixed Beans,Tororo,Busia
+0,Mixed Beans,Tororo,Masindi
+0,Mixed Beans,Tororo,Eldoret
+0,Mixed Beans,Tororo,Kisumu
+0,Red Beans,Bujumbura,Gitega
+0,Red Beans,Bujumbura,Kamembe
+0,Red Beans,Bujumbura,Ngozi
+0,Red Beans,Busia,Eldoret
+0,Red Beans,Eldoret,Busia
+0,Red Beans,Eldoret,Meru
+0,Red Beans,Eldoret,Nairobi
+0,Red Beans,Gitega,Kigali
+0,Red Beans,Gitega,Bujumbura
+0,Red Beans,Gitega,Ngozi
+0,Red Beans,Kamembe,Kigali
+0,Red Beans,Kamembe,Ruhengeri
+0,Red Beans,Kamembe,Bujumbura
+0,Red Beans,Kamembe,Ngozi
+0,Red Beans,Kigali,Kamembe
+0,Red Beans,Kigali,Gitega
+0,Red Beans,Kigali,Ruhengeri
+0,Red Beans,Kigali,Ngozi
+0,Red Beans,Kigali,Mulindi
+0,Red Beans,Machakos,Meru
+0,Red Beans,Machakos,Makueni
+0,Red Beans,Machakos,Mombasa
+0,Red Beans,Machakos,Nairobi
+0,Red Beans,Makueni,Machakos
+0,Red Beans,Makueni,Meru
+0,Red Beans,Makueni,Mombasa
+0,Red Beans,Makueni,Nairobi
+0,Red Beans,Meru,Machakos
+0,Red Beans,Meru,Makueni
+0,Red Beans,Meru,Eldoret
+0,Red Beans,Meru,Nairobi
+0,Red Beans,Mombasa,Machakos
+0,Red Beans,Mombasa,Makueni
+0,Red Beans,Mombasa,Nairobi
+0,Red Beans,Mulindi,Kigali
+0,Red Beans,Mulindi,Ruhengeri
+0,Red Beans,Nairobi,Makueni
+0,Red Beans,Nairobi,Mombasa
+0,Red Beans,Nairobi,Machakos
+0,Red Beans,Nairobi,Meru
+0,Red Beans,Nairobi,Eldoret
+0,Red Beans,Ngozi,Kamembe
+0,Red Beans,Ngozi,Gitega
+0,Red Beans,Ngozi,Kigali
+0,Red Beans,Ngozi,Ruhengeri
+0,Red Beans,Ngozi,Bujumbura
+0,Red Beans,Ruhengeri,Kigali
+0,Red Beans,Ruhengeri,Kamembe
+0,Red Beans,Ruhengeri,Mulindi
+0,Red Beans,Ruhengeri,Ngozi
+0,Red Sorghum,Bujumbura,Gitega
+0,Red Sorghum,Bujumbura,Kamembe
+0,Red Sorghum,Bujumbura,Ngozi
+0,Red Sorghum,Busia,Kasese
+0,Red Sorghum,Busia,Soroti
+0,Red Sorghum,Busia,Kampala
+0,Red Sorghum,Busia,Masindi
+0,Red Sorghum,Busia,Tororo
+0,Red Sorghum,Busia,Eldoret
+0,Red Sorghum,Busia,Kisumu
+0,Red Sorghum,Eldoret,Nakuru
+0,Red Sorghum,Eldoret,Busia
+0,Red Sorghum,Eldoret,Tororo
+0,Red Sorghum,Eldoret,Kisumu
+0,Red Sorghum,Eldoret,Nairobi
+0,Red Sorghum,Gitega,Kigali
+0,Red Sorghum,Gitega,Bujumbura
+0,Red Sorghum,Gitega,Ngozi
+0,Red Sorghum,Gulu,Masindi
+0,Red Sorghum,Gulu,Lira
+0,Red Sorghum,Kabale,Kasese
+0,Red Sorghum,Kabale,Ruhengeri
+0,Red Sorghum,Kabale,Mulindi
+0,Red Sorghum,Kamembe,Kigali
+0,Red Sorghum,Kamembe,Rubavu
+0,Red Sorghum,Kamembe,Bujumbura
+0,Red Sorghum,Kamembe,Ngozi
+0,Red Sorghum,Kampala,Kasese
+0,Red Sorghum,Kampala,Soroti
+0,Red Sorghum,Kampala,Nakuru
+0,Red Sorghum,Kampala,Busia
+0,Red Sorghum,Kampala,Masindi
+0,Red Sorghum,Kampala,Tororo
+0,Red Sorghum,Kampala,Kisumu
+0,Red Sorghum,Kampala,Nairobi
+0,Red Sorghum,Kasese,Kabale
+0,Red Sorghum,Kasese,Soroti
+0,Red Sorghum,Kasese,Kampala
+0,Red Sorghum,Kasese,Busia
+0,Red Sorghum,Kasese,Ruhengeri
+0,Red Sorghum,Kasese,Masindi
+0,Red Sorghum,Kasese,Tororo
+0,Red Sorghum,Kigali,Kamembe
+0,Red Sorghum,Kigali,Gitega
+0,Red Sorghum,Kigali,Ruhengeri
+0,Red Sorghum,Kigali,Ngozi
+0,Red Sorghum,Kigali,Mulindi
+0,Red Sorghum,Kisumu,Nakuru
+0,Red Sorghum,Kisumu,Kampala
+0,Red Sorghum,Kisumu,Busia
+0,Red Sorghum,Kisumu,Tororo
+0,Red Sorghum,Kisumu,Eldoret
+0,Red Sorghum,Kisumu,Nairobi
+0,Red Sorghum,Lira,Soroti
+0,Red Sorghum,Lira,Masindi
+0,Red Sorghum,Lira,Gulu
+0,Red Sorghum,Masindi,Kasese
+0,Red Sorghum,Masindi,Soroti
+0,Red Sorghum,Masindi,Kampala
+0,Red Sorghum,Masindi,Busia
+0,Red Sorghum,Masindi,Lira
+0,Red Sorghum,Masindi,Tororo
+0,Red Sorghum,Masindi,Gulu
+0,Red Sorghum,Mulindi,Kigali
+0,Red Sorghum,Mulindi,Ruhengeri
+0,Red Sorghum,Mulindi,Kabale
+0,Red Sorghum,Nairobi,Nakuru
+0,Red Sorghum,Nairobi,Eldoret
+0,Red Sorghum,Nairobi,Kisumu
+0,Red Sorghum,Nairobi,Kampala
+0,Red Sorghum,Nakuru,Eldoret
+0,Red Sorghum,Nakuru,Kisumu
+0,Red Sorghum,Nakuru,Nairobi
+0,Red Sorghum,Nakuru,Kampala
+0,Red Sorghum,Ngozi,Kamembe
+0,Red Sorghum,Ngozi,Gitega
+0,Red Sorghum,Ngozi,Kigali
+0,Red Sorghum,Ngozi,Rubavu
+0,Red Sorghum,Ngozi,Bujumbura
+0,Red Sorghum,Rubavu,Ruhengeri
+0,Red Sorghum,Rubavu,Kamembe
+0,Red Sorghum,Rubavu,Ngozi
+0,Red Sorghum,Ruhengeri,Kasese
+0,Red Sorghum,Ruhengeri,Kabale
+0,Red Sorghum,Ruhengeri,Kigali
+0,Red Sorghum,Ruhengeri,Rubavu
+0,Red Sorghum,Ruhengeri,Mulindi
+0,Red Sorghum,Soroti,Kasese
+0,Red Sorghum,Soroti,Kampala
+0,Red Sorghum,Soroti,Busia
+0,Red Sorghum,Soroti,Masindi
+0,Red Sorghum,Soroti,Lira
+0,Red Sorghum,Soroti,Tororo
+0,Red Sorghum,Tororo,Kasese
+0,Red Sorghum,Tororo,Soroti
+0,Red Sorghum,Tororo,Kampala
+0,Red Sorghum,Tororo,Busia
+0,Red Sorghum,Tororo,Masindi
+0,Red Sorghum,Tororo,Eldoret
+0,Red Sorghum,Tororo,Kisumu
+0,Rice,Bujumbura,Gitega
+0,Rice,Bujumbura,Kamembe
+0,Rice,Bujumbura,Ngozi
+0,Rice,Eldoret,Tororo
+0,Rice,Eldoret,Nakuru
+0,Rice,Eldoret,Kisumu
+0,Rice,Eldoret,Kampala
+0,Rice,Gitega,Kigali
+0,Rice,Gitega,Bujumbura
+0,Rice,Gitega,Ngozi
+0,Rice,Gulu,Masindi
+0,Rice,Gulu,Lira
+0,Rice,Kabale,Kasese
+0,Rice,Kabale,Ruhengeri
+0,Rice,Kabale,Mulindi
+0,Rice,Kamembe,Kigali
+0,Rice,Kamembe,Ruhengeri
+0,Rice,Kamembe,Bujumbura
+0,Rice,Kamembe,Ngozi
+0,Rice,Kampala,Kasese
+0,Rice,Kampala,Nakuru
+0,Rice,Kampala,Masindi
+0,Rice,Kampala,Lira
+0,Rice,Kampala,Tororo
+0,Rice,Kampala,Eldoret
+0,Rice,Kampala,Kisumu
+0,Rice,Kasese,Kabale
+0,Rice,Kasese,Kampala
+0,Rice,Kasese,Ruhengeri
+0,Rice,Kasese,Masindi
+0,Rice,Kasese,Tororo
+0,Rice,Kigali,Kamembe
+0,Rice,Kigali,Gitega
+0,Rice,Kigali,Ruhengeri
+0,Rice,Kigali,Ngozi
+0,Rice,Kigali,Mulindi
+0,Rice,Kisumu,Tororo
+0,Rice,Kisumu,Nakuru
+0,Rice,Kisumu,Eldoret
+0,Rice,Kisumu,Kampala
+0,Rice,Lira,Kampala
+0,Rice,Lira,Masindi
+0,Rice,Lira,Gulu
+0,Rice,Masindi,Kasese
+0,Rice,Masindi,Kampala
+0,Rice,Masindi,Lira
+0,Rice,Masindi,Tororo
+0,Rice,Masindi,Gulu
+0,Rice,Mulindi,Kigali
+0,Rice,Mulindi,Ruhengeri
+0,Rice,Mulindi,Kabale
+0,Rice,Nakuru,Eldoret
+0,Rice,Nakuru,Kisumu
+0,Rice,Nakuru,Kampala
+0,Rice,Ngozi,Kamembe
+0,Rice,Ngozi,Gitega
+0,Rice,Ngozi,Kigali
+0,Rice,Ngozi,Ruhengeri
+0,Rice,Ngozi,Bujumbura
+0,Rice,Ruhengeri,Kasese
+0,Rice,Ruhengeri,Kamembe
+0,Rice,Ruhengeri,Kabale
+0,Rice,Ruhengeri,Kigali
+0,Rice,Ruhengeri,Ngozi
+0,Rice,Ruhengeri,Mulindi
+0,Rice,Tororo,Kasese
+0,Rice,Tororo,Kampala
+0,Rice,Tororo,Masindi
+0,Rice,Tororo,Eldoret
+0,Rice,Tororo,Kisumu
+0,Soya beans,Bujumbura,Gitega
+0,Soya beans,Bujumbura,Kamembe
+0,Soya beans,Bujumbura,Ngozi
+0,Soya beans,Busia,Mbale
+0,Soya beans,Busia,Soroti
+0,Soya beans,Busia,Kampala
+0,Soya beans,Busia,Masindi
+0,Soya beans,Busia,Tororo
+0,Soya beans,Gitega,Kigali
+0,Soya beans,Gitega,Bujumbura
+0,Soya beans,Gitega,Ngozi
+0,Soya beans,Gulu,Masindi
+0,Soya beans,Gulu,Lira
+0,Soya beans,Kamembe,Kigali
+0,Soya beans,Kamembe,Rubavu
+0,Soya beans,Kamembe,Bujumbura
+0,Soya beans,Kamembe,Ngozi
+0,Soya beans,Kampala,Mbale
+0,Soya beans,Kampala,Soroti
+0,Soya beans,Kampala,Busia
+0,Soya beans,Kampala,Masindi
+0,Soya beans,Kampala,Ruhengeri
+0,Soya beans,Kampala,Tororo
+0,Soya beans,Kigali,Gitega
+0,Soya beans,Kigali,Ruhengeri
+0,Soya beans,Kigali,Kamembe
+0,Soya beans,Kigali,Ngozi
+0,Soya beans,Lira,Soroti
+0,Soya beans,Lira,Masindi
+0,Soya beans,Lira,Gulu
+0,Soya beans,Masindi,Mbale
+0,Soya beans,Masindi,Soroti
+0,Soya beans,Masindi,Kampala
+0,Soya beans,Masindi,Busia
+0,Soya beans,Masindi,Ruhengeri
+0,Soya beans,Masindi,Lira
+0,Soya beans,Masindi,Tororo
+0,Soya beans,Masindi,Gulu
+0,Soya beans,Mbale,Soroti
+0,Soya beans,Mbale,Kampala
+0,Soya beans,Mbale,Busia
+0,Soya beans,Mbale,Masindi
+0,Soya beans,Mbale,Tororo
+0,Soya beans,Ngozi,Kamembe
+0,Soya beans,Ngozi,Gitega
+0,Soya beans,Ngozi,Kigali
+0,Soya beans,Ngozi,Rubavu
+0,Soya beans,Ngozi,Bujumbura
+0,Soya beans,Rubavu,Ruhengeri
+0,Soya beans,Rubavu,Kamembe
+0,Soya beans,Rubavu,Ngozi
+0,Soya beans,Ruhengeri,Kigali
+0,Soya beans,Ruhengeri,Masindi
+0,Soya beans,Ruhengeri,Rubavu
+0,Soya beans,Ruhengeri,Kampala
+0,Soya beans,Soroti,Mbale
+0,Soya beans,Soroti,Kampala
+0,Soya beans,Soroti,Busia
+0,Soya beans,Soroti,Masindi
+0,Soya beans,Soroti,Lira
+0,Soya beans,Soroti,Tororo
+0,Soya beans,Tororo,Mbale
+0,Soya beans,Tororo,Soroti
+0,Soya beans,Tororo,Kampala
+0,Soya beans,Tororo,Busia
+0,Soya beans,Tororo,Masindi
+0,Yellow Beans,Bujumbura,Gitega
+0,Yellow Beans,Bujumbura,Ngozi
+0,Yellow Beans,Busia,Kasese
+0,Yellow Beans,Busia,Kampala
+0,Yellow Beans,Busia,Masindi
+0,Yellow Beans,Busia,Tororo
+0,Yellow Beans,Busia,Eldoret
+0,Yellow Beans,Busia,Kisumu
+0,Yellow Beans,Eldoret,Makueni
+0,Yellow Beans,Eldoret,Busia
+0,Yellow Beans,Eldoret,Machakos
+0,Yellow Beans,Eldoret,Tororo
+0,Yellow Beans,Eldoret,Kisumu
+0,Yellow Beans,Eldoret,Nairobi
+0,Yellow Beans,Gitega,Bujumbura
+0,Yellow Beans,Gitega,Ngozi
+0,Yellow Beans,Gulu,Masindi
+0,Yellow Beans,Gulu,Lira
+0,Yellow Beans,Kabale,Kasese
+0,Yellow Beans,Kampala,Kasese
+0,Yellow Beans,Kampala,Busia
+0,Yellow Beans,Kampala,Masindi
+0,Yellow Beans,Kampala,Lira
+0,Yellow Beans,Kampala,Tororo
+0,Yellow Beans,Kampala,Kisumu
+0,Yellow Beans,Kampala,Nairobi
+0,Yellow Beans,Kasese,Kabale
+0,Yellow Beans,Kasese,Kampala
+0,Yellow Beans,Kasese,Busia
+0,Yellow Beans,Kasese,Masindi
+0,Yellow Beans,Kasese,Tororo
+0,Yellow Beans,Kisumu,Kampala
+0,Yellow Beans,Kisumu,Busia
+0,Yellow Beans,Kisumu,Tororo
+0,Yellow Beans,Kisumu,Eldoret
+0,Yellow Beans,Kisumu,Nairobi
+0,Yellow Beans,Lira,Kampala
+0,Yellow Beans,Lira,Masindi
+0,Yellow Beans,Lira,Gulu
+0,Yellow Beans,Machakos,Makueni
+0,Yellow Beans,Machakos,Eldoret
+0,Yellow Beans,Machakos,Mombasa
+0,Yellow Beans,Machakos,Nairobi
+0,Yellow Beans,Makueni,Machakos
+0,Yellow Beans,Makueni,Eldoret
+0,Yellow Beans,Makueni,Mombasa
+0,Yellow Beans,Makueni,Nairobi
+0,Yellow Beans,Masindi,Kasese
+0,Yellow Beans,Masindi,Kampala
+0,Yellow Beans,Masindi,Busia
+0,Yellow Beans,Masindi,Lira
+0,Yellow Beans,Masindi,Tororo
+0,Yellow Beans,Masindi,Gulu
+0,Yellow Beans,Mombasa,Machakos
+0,Yellow Beans,Mombasa,Makueni
+0,Yellow Beans,Mombasa,Nairobi
+0,Yellow Beans,Nairobi,Makueni
+0,Yellow Beans,Nairobi,Kampala
+0,Yellow Beans,Nairobi,Mombasa
+0,Yellow Beans,Nairobi,Machakos
+0,Yellow Beans,Nairobi,Eldoret
+0,Yellow Beans,Nairobi,Kisumu
+0,Yellow Beans,Ngozi,Gitega
+0,Yellow Beans,Ngozi,Bujumbura
+0,Yellow Beans,Tororo,Kasese
+0,Yellow Beans,Tororo,Kampala
+0,Yellow Beans,Tororo,Busia
+0,Yellow Beans,Tororo,Masindi
+0,Yellow Beans,Tororo,Eldoret
+0,Yellow Beans,Tororo,Kisumu

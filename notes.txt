@@ -1,0 +1,10 @@
+Step 1, organize src into formatted columns with aggregation - formatsrcdata.py
+    This also applies CPI transformation
+Step 2, Dickey Fuller Results/Phillips Peron - stationarytests.py
+Step 3, For each product, test the density of the data network and then estimate the availability of each market - testDataNetwork.py
+Step 4, construct a network map with the avialbiltiy results for each product - makenetwork.py.
+Step 5, Cointegration Pairs on the network map results. Also caluclates VECM coefficients - Cointegrationtests.py
+Step 6, Analyze cointegration results to produce pair-wise speed of adjustments - speedOfAdjustmentCalcs.py
+Step 7, Prepare Map Data - prepareMapData.py
+Step 8, Plot Map Data - plotMaps.py
+Step 9, Network Analysis - networkAnalysis.py

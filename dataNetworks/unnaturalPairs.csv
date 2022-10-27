@@ -1,0 +1,117 @@
+﻿Product,MarketplaceA,MarketplaceB,Helper,Reciprocated
+Maize,Arusha,Kampala,MaizeArushaKampala,1
+Maize,Arusha,Nakuru,MaizeArushaNakuru,1
+Maize,Nairobi,Kampala,MaizeNairobiKampala,1
+Maize,Kasese,Tororo,MaizeKaseseTororo,1
+Maize,Kasese,Busia,MaizeKaseseBusia,1
+Maize,Kasese,Soroti,MaizeKaseseSoroti,1
+Maize,Kasese,Mbale,MaizeKaseseMbale,1
+Maize,Nakuru,Kampala,MaizeNakuruKampala,1
+Maize,Bujumbura,Arusha,MaizeBujumburaArusha,1
+Maize,Kamembe,Ruhengeri,MaizeKamembeRuhengeri,1
+Maize,Masindi,Soroti,MaizeMasindiSoroti,1
+Maize,Busia,Mbale,MaizeBusiaMbale,1
+Maize,Tororo,Kisumu,MaizeTororoKisumu,1
+Maize,Soroti,Tororo,MaizeSorotiTororo,1
+Maize,Soroti,Busia,MaizeSorotiBusia,1
+Maize,Masindi,Mbale,MaizeMasindiMbale,1
+Maize,Kisumu,Kampala,MaizeKisumuKampala,1
+Maize,Gitega,Dodoma,MaizeGitegaDodoma,1
+Maize,Gitega,Arusha,MaizeGitegaArusha,1
+Millet,Kasese,Tororo,MilletKaseseTororo,1
+Millet,Kasese,Busia,MilletKaseseBusia,1
+Millet,Busia,Mbale,MilletBusiaMbale,1
+Millet,Nakuru,Kampala,MilletNakuruKampala,1
+Millet,Nairobi,Kampala,MilletNairobiKampala,1
+Millet,Tororo,Kisumu,MilletTororoKisumu,1
+Mixed Beans, Tororo,Kisumu,Mixed Beans TororoKisumu,1
+Mixed Beans,Kasese,Tororo,Mixed BeansKaseseTororo,1
+Mixed Beans,Kasese,Busia,Mixed BeansKaseseBusia,1
+Soya beans,Masindi,Busia,Soya beansMasindiBusia,1
+Soya beans,Soroti,Tororo,Soya beansSorotiTororo,1
+Rice,Kasese,Tororo,RiceKaseseTororo,1
+Rice,Nakuru,Kampala,RiceNakuruKampala,1
+Rice,Kasese,Eldoret,RiceKaseseEldoret,1
+Red Sorghum,Nairobi,Eldoret,Red SorghumNairobiEldoret,1
+Red Sorghum,Kampala,Nakuru,Red SorghumKampalaNakuru,1
+Red Sorghum,Kasese,Tororo,Red SorghumKaseseTororo,1
+Red Sorghum,Kasese,Busia,Red SorghumKaseseBusia,1
+Red Sorghum,Tororo,Kisumu,Red SorghumTororoKisumu,1
+Red Sorghum,Masindi,Busia,Red SorghumMasindiBusia,1
+Red Sorghum,Kamembe,Ruhengeri,Red SorghumKamembeRuhengeri,1
+Red Sorghum,Kampala,Kisumu,Red SorghumKampalaKisumu,1
+Red Sorghum,Kampala,Nairobi,Red SorghumKampalaNairobi,1
+Red Sorghum,Soroti,Busia,Red SorghumSorotiBusia,1
+Yellow Beans, Kamembe,Ruhengeri,Yellow Beans KamembeRuhengeri,1
+Yellow Beans,Tororo,Kisumu,Yellow BeansTororoKisumu,1
+Yellow Beans,Kasese,Eldoret,Yellow BeansKaseseEldoret,1
+Yellow Beans,Kasese,Busia,Yellow BeansKaseseBusia,1
+Yellow Beans,Kasese,Tororo,Yellow BeansKaseseTororo,1
+Yellow Beans,Nairobi,Kampala,Yellow BeansNairobiKampala,1
+Yellow Beans,Machakos,Eldoret,Yellow BeansMachakosEldoret,1
+Yellow Beans,Makueni,Eldoret,Yellow BeansMakueniEldoret,1
+Yellow Beans,Mombasa,Eldoret,Yellow BeansMombasaEldoret,1
+Yellow Beans,Kampala,Kisumu,Yellow BeansKampalaKisumu,1
+Yellow Beans,Masindi,Busia,Yellow BeansMasindiBusia,1
+Maize,Kampala,Arusha,MaizeKampalaArusha,1
+Maize,Nakuru,Arusha,MaizeNakuruArusha,1
+Maize,Kampala,Nairobi,MaizeKampalaNairobi,1
+Maize,Tororo,Kasese,MaizeTororoKasese,1
+Maize,Busia,Kasese,MaizeBusiaKasese,1
+Maize,Soroti,Kasese,MaizeSorotiKasese,1
+Maize,Mbale,Kasese,MaizeMbaleKasese,1
+Maize,Kampala,Nakuru,MaizeKampalaNakuru,1
+Maize,Arusha,Bujumbura,MaizeArushaBujumbura,1
+Maize,Ruhengeri,Kamembe,MaizeRuhengeriKamembe,1
+Maize,Soroti,Masindi,MaizeSorotiMasindi,1
+Maize,Mbale,Busia,MaizeMbaleBusia,1
+Maize,Kisumu,Tororo,MaizeKisumuTororo,1
+Maize,Tororo,Soroti,MaizeTororoSoroti,1
+Maize,Busia,Soroti,MaizeBusiaSoroti,1
+Maize,Mbale,Masindi,MaizeMbaleMasindi,1
+Millet,Tororo,Kasese,MilletTororoKasese,1
+Millet,Busia,Kasese,MilletBusiaKasese,1
+Millet,Mbale,Busia,MilletMbaleBusia,1
+Millet,Kampala,Nakuru,MilletKampalaNakuru,1
+Millet,Kampala,Nairobi,MilletKampalaNairobi,1
+Millet,Kisumu,Tororo,MilletKisumuTororo,1
+Mixed Beans,Kisumu, Tororo,Mixed BeansKisumu Tororo,1
+Mixed Beans,Tororo,Kasese,Mixed BeansTororoKasese,1
+Mixed Beans,Busia,Kasese,Mixed BeansBusiaKasese,1
+Soya beans,Busia,Masindi,Soya beansBusiaMasindi,1
+Soya beans,Tororo,Soroti,Soya beansTororoSoroti,1
+Rice,Tororo,Kasese,RiceTororoKasese,1
+Rice,Kampala,Nakuru,RiceKampalaNakuru,1
+Rice,Eldoret,Kasese,RiceEldoretKasese,1
+Red Sorghum,Eldoret,Nairobi,Red SorghumEldoretNairobi,1
+Red Sorghum,Nakuru,Kampala,Red SorghumNakuruKampala,1
+Red Sorghum,Tororo,Kasese,Red SorghumTororoKasese,1
+Red Sorghum,Busia,Kasese,Red SorghumBusiaKasese,1
+Red Sorghum,Kisumu,Tororo,Red SorghumKisumuTororo,1
+Red Sorghum,Busia,Masindi,Red SorghumBusiaMasindi,1
+Red Sorghum,Ruhengeri,Kamembe,Red SorghumRuhengeriKamembe,1
+Red Sorghum,Kisumu,Kampala,Red SorghumKisumuKampala,1
+Red Sorghum,Nairobi,Kampala,Red SorghumNairobiKampala,1
+Red Sorghum,Busia,Soroti,Red SorghumBusiaSoroti,1
+Yellow Beans,Ruhengeri, Kamembe,Yellow BeansRuhengeri Kamembe,1
+Yellow Beans,Kisumu,Tororo,Yellow BeansKisumuTororo,1
+Yellow Beans,Eldoret,Kasese,Yellow BeansEldoretKasese,1
+Yellow Beans,Busia,Kasese,Yellow BeansBusiaKasese,1
+Yellow Beans,Tororo,Kasese,Yellow BeansTororoKasese,1
+Yellow Beans,Kampala,Nairobi,Yellow BeansKampalaNairobi,1
+Yellow Beans,Eldoret,Machakos,Yellow BeansEldoretMachakos,1
+Yellow Beans,Eldoret,Makueni,Yellow BeansEldoretMakueni,1
+Yellow Beans,Eldoret,Mombasa,Yellow BeansEldoretMombasa,1
+Yellow Beans,Kisumu,Kampala,Yellow BeansKisumuKampala,1
+Yellow Beans,Busia,Masindi,Yellow BeansBusiaMasindi,1
+Mixed Beans,Masindi,Busia,Mixed BeansMasindiBusia,1
+Mixed Beans,Busia,Masindi,Mixed BeansBusiaMasindi,1
+Soya beans,Soroti,Busia,Soya beansSorotiBusia,1
+Soya beans,Busia,Soroti,Soya beansBusiaSoroti,1
+Mixed Beans,Kampala,Kisumu,Mixed BeansKampalaKisumu,1
+Mixed Beans,Kisumu,Kampala,Mixed BeansKisumuKampala,1
+Rice,Kampala,Kisumu,RiceKampalaKisumu,1
+Rice,Kisumu,Kampala,RiceKisumuKampala,1
+Maize,Kampala,Kisumu,MaizeKampalaKisumu,1
+Maize,Dodoma,Gitega,MaizeDodomaGitega,1
+Maize,Arusha,Gitega,MaizeArushaGitega,1

@@ -1,0 +1,2 @@
+So when I ran the full set since 2000, I got lots of non-VECM eligible series. 
+I've decided to rerun it for data since 2016. I think this makes sense because shit happened in the past which is ruining the unit root. Also, it makes sense to only use relevant (<5years) data to describe current situation. 

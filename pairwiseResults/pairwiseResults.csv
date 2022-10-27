@@ -1,0 +1,345 @@
+,Product,Origin,Destination,Helper,pairLength,pairCoint,pairIntegrated,pairSAD,issues
+5,Green Grams,Kisumu,Eldoret,Green GramsKisumuEldoret,94,1.0,1.0,0.27647151077792975,1
+8,Green Grams,Lira,Gulu,Green GramsLiraGulu,69,1.0,1.0,0.40851150407314724,0
+13,Green Grams,Makueni,Machakos,Green GramsMakueniMachakos,79,1.0,1.0,0.4419446077339734,1
+17,Green Grams,Meru,Makueni,Green GramsMeruMakueni,59,1.0,1.0,0.2617463431273785,1
+19,Green Grams,Meru,Machakos,Green GramsMeruMachakos,51,1.0,1.0,0.3217519543200375,1
+20,Green Grams,Meru,Eldoret,Green GramsMeruEldoret,61,0.0,1.0,0.30692010632351946,1
+22,Green Grams,Mombasa,Machakos,Green GramsMombasaMachakos,84,1.0,1.0,0.5729317368419161,0
+23,Green Grams,Mombasa,Makueni,Green GramsMombasaMakueni,87,1.0,1.0,0.3864041914858444,0
+25,Green Grams,Nairobi,Makueni,Green GramsNairobiMakueni,84,1.0,1.0,0.3577818675768868,0
+27,Green Grams,Nairobi,Mombasa,Green GramsNairobiMombasa,92,1.0,1.0,0.2313948817738433,1
+28,Green Grams,Nairobi,Machakos,Green GramsNairobiMachakos,82,0.0,1.0,0.2898823217841023,1
+29,Green Grams,Nairobi,Meru,Green GramsNairobiMeru,58,1.0,1.0,0.30814956585365505,0
+30,Green Grams,Nairobi,Kisumu,Green GramsNairobiKisumu,91,1.0,1.0,0.1609224868021304,1
+31,Green Grams,Nakuru,Meru,Green GramsNakuruMeru,61,1.0,1.0,0.41719155471155606,1
+32,Green Grams,Nakuru,Eldoret,Green GramsNakuruEldoret,99,1.0,1.0,0.34217908447340284,0
+33,Green Grams,Nakuru,Kisumu,Green GramsNakuruKisumu,93,0.0,1.0,0.33872795484714624,1
+34,Green Grams,Nakuru,Nairobi,Green GramsNakuruNairobi,96,1.0,1.0,0.4852390504844951,0
+35,Green Grams,Soroti,Lira,Green GramsSorotiLira,56,1.0,1.0,0.6282896816563464,0
+47,Maize,Bujumbura,Arusha,MaizeBujumburaArusha,88,1.0,1.0,0.2883538354276879,0
+59,Maize,Dodoma,Arusha,MaizeDodomaArusha,47,1.0,1.0,0.39764665575448876,0
+62,Maize,Eldoret,Busia,MaizeEldoretBusia,84,1.0,1.0,0.25074340439940224,1
+67,Maize,Gitega,Arusha,MaizeGitegaArusha,89,1.0,1.0,0.2604227539961136,0
+69,Maize,Gitega,Dodoma,MaizeGitegaDodoma,55,1.0,1.0,0.15466766225382275,1
+70,Maize,Gitega,Bujumbura,MaizeGitegaBujumbura,97,1.0,1.0,0.25626918842689084,1
+78,Maize,Kamembe,Bujumbura,MaizeKamembeBujumbura,54,1.0,1.0,0.41599234039689414,0
+84,Maize,Kampala,Busia,MaizeKampalaBusia,84,1.0,1.0,1.0399838611168826,1
+85,Maize,Kampala,Arusha,MaizeKampalaArusha,89,1.0,1.0,0.3254917545502875,0
+90,Maize,Kasese,Kabale,MaizeKaseseKabale,72,1.0,1.0,0.20061258777715943,1
+93,Maize,Kasese,Kampala,MaizeKaseseKampala,76,1.0,1.0,0.23650289747491748,1
+94,Maize,Kasese,Busia,MaizeKaseseBusia,76,0.0,1.0,0.343912718885357,1
+98,Maize,Kigali,Kamembe,MaizeKigaliKamembe,55,1.0,1.0,0.24057321628827996,1
+99,Maize,Kigali,Gitega,MaizeKigaliGitega,99,1.0,1.0,0.16649534783999628,1
+105,Maize,Kisumu,Kampala,MaizeKisumuKampala,93,1.0,1.0,0.24153877920957234,1
+106,Maize,Kisumu,Busia,MaizeKisumuBusia,84,1.0,1.0,0.276692688330431,1
+107,Maize,Kisumu,Arusha,MaizeKisumuArusha,82,1.0,1.0,0.5045905418917401,0
+109,Maize,Kisumu,Eldoret,MaizeKisumuEldoret,93,0.0,1.0,0.2726750472758556,1
+113,Maize,Lira,Gulu,MaizeLiraGulu,66,1.0,1.0,0.4231568631544606,1
+115,Maize,Machakos,Arusha,MaizeMachakosArusha,80,1.0,1.0,0.4133413581449838,1
+119,Maize,Makueni,Arusha,MaizeMakueniArusha,78,1.0,1.0,0.25210268609957537,1
+121,Maize,Makueni,Machakos,MaizeMakueniMachakos,81,1.0,1.0,1.1508586145830957,1
+124,Maize,Masindi,Kasese,MaizeMasindiKasese,76,1.0,1.0,0.24840284147561162,1
+127,Maize,Masindi,Kampala,MaizeMasindiKampala,98,1.0,1.0,0.6518042177633301,1
+128,Maize,Masindi,Busia,MaizeMasindiBusia,84,1.0,1.0,0.7131878806002635,1
+129,Maize,Masindi,Lira,MaizeMasindiLira,94,1.0,1.0,0.45216313603055747,1
+131,Maize,Masindi,Gulu,MaizeMasindiGulu,66,1.0,1.0,0.3632927218602696,1
+132,Maize,Mbale,Kasese,MaizeMbaleKasese,71,1.0,1.0,0.27271485158736025,1
+134,Maize,Mbale,Kampala,MaizeMbaleKampala,79,1.0,1.0,1.0346484429205354,1
+135,Maize,Mbale,Busia,MaizeMbaleBusia,79,1.0,1.0,0.0,1
+136,Maize,Mbale,Masindi,MaizeMbaleMasindi,79,1.0,1.0,0.488878166972795,1
+138,Maize,Mbale,Eldoret,MaizeMbaleEldoret,79,1.0,1.0,0.21098408417022702,1
+139,Maize,Mbale,Kisumu,MaizeMbaleKisumu,79,0.0,1.0,0.23376873554441582,1
+140,Maize,Meru,Makueni,MaizeMeruMakueni,59,1.0,1.0,0.7031494067945042,0
+142,Maize,Meru,Machakos,MaizeMeruMachakos,52,1.0,1.0,0.7082153833675988,1
+143,Maize,Meru,Eldoret,MaizeMeruEldoret,63,0.0,1.0,0.1684440864389707,1
+145,Maize,Mombasa,Machakos,MaizeMombasaMachakos,84,1.0,1.0,0.30668103990802903,1
+146,Maize,Mombasa,Makueni,MaizeMombasaMakueni,89,1.0,1.0,0.34132845275803675,0
+147,Maize,Mombasa,Arusha,MaizeMombasaArusha,84,1.0,1.0,0.3570240985048645,0
+149,Maize,Mulindi,Kigali,MaizeMulindiKigali,90,1.0,1.0,0.28081803499457025,0
+151,Maize,Mulindi,Kabale,MaizeMulindiKabale,86,1.0,1.0,0.21304421037223212,1
+152,Maize,Nairobi,Makueni,MaizeNairobiMakueni,87,1.0,1.0,0.19342534364429007,1
+154,Maize,Nairobi,Kampala,MaizeNairobiKampala,98,1.0,1.0,0.11783171263415407,1
+155,Maize,Nairobi,Arusha,MaizeNairobiArusha,87,0.0,1.0,0.1308033895705214,1
+156,Maize,Nairobi,Mombasa,MaizeNairobiMombasa,93,1.0,1.0,0.3065174936624953,1
+157,Maize,Nairobi,Machakos,MaizeNairobiMachakos,83,1.0,1.0,0.13326525131644323,1
+158,Maize,Nairobi,Meru,MaizeNairobiMeru,61,1.0,1.0,0.28091432699322505,0
+159,Maize,Nairobi,Kisumu,MaizeNairobiKisumu,91,1.0,1.0,0.36116288690107823,0
+160,Maize,Nakuru,Kampala,MaizeNakuruKampala,100,1.0,1.0,0.22425518159203023,1
+161,Maize,Nakuru,Arusha,MaizeNakuruArusha,89,1.0,1.0,0.2528935385882688,0
+162,Maize,Nakuru,Meru,MaizeNakuruMeru,63,1.0,1.0,0.08586658569784522,0
+163,Maize,Nakuru,Eldoret,MaizeNakuruEldoret,100,1.0,1.0,0.5678280477429286,0
+164,Maize,Nakuru,Kisumu,MaizeNakuruKisumu,93,1.0,1.0,0.34666869268269984,1
+165,Maize,Nakuru,Nairobi,MaizeNakuruNairobi,98,1.0,1.0,0.28774777468942314,1
+166,Maize,Ngozi,Kamembe,MaizeNgoziKamembe,52,1.0,1.0,0.41428426120958345,0
+167,Maize,Ngozi,Gitega,MaizeNgoziGitega,68,1.0,1.0,0.5622872330287926,0
+168,Maize,Ngozi,Kigali,MaizeNgoziKigali,67,1.0,1.0,0.13078720452264886,1
+170,Maize,Ngozi,Bujumbura,MaizeNgoziBujumbura,66,1.0,1.0,0.9540326559286363,0
+172,Maize,Rubavu,Kamembe,MaizeRubavuKamembe,55,1.0,1.0,0.210731353069365,1
+173,Maize,Rubavu,Ngozi,MaizeRubavuNgozi,52,1.0,1.0,0.23652375433000497,1
+174,Maize,Ruhengeri,Kasese,MaizeRuhengeriKasese,75,1.0,1.0,0.43017735112999084,0
+175,Maize,Ruhengeri,Kabale,MaizeRuhengeriKabale,94,1.0,1.0,0.24261881105015545,1
+176,Maize,Ruhengeri,Kigali,MaizeRuhengeriKigali,97,1.0,1.0,0.2968675493681122,0
+177,Maize,Ruhengeri,Rubavu,MaizeRuhengeriRubavu,63,1.0,1.0,0.5938296394208572,0
+178,Maize,Ruhengeri,Mulindi,MaizeRuhengeriMulindi,88,1.0,1.0,0.4363452149666258,0
+179,Maize,Soroti,Kasese,MaizeSorotiKasese,50,1.0,1.0,0.3016311902800289,1
+180,Maize,Soroti,Mbale,MaizeSorotiMbale,55,1.0,1.0,0.8912099066882583,1
+181,Maize,Soroti,Kampala,MaizeSorotiKampala,57,1.0,1.0,0.8874154733977536,1
+182,Maize,Soroti,Busia,MaizeSorotiBusia,57,0.0,1.0,1.896808119813342,0
+183,Maize,Soroti,Masindi,MaizeSorotiMasindi,57,1.0,1.0,0.8120682255708037,1
+184,Maize,Soroti,Lira,MaizeSorotiLira,56,0.0,1.0,1.0221478404219486,1
+186,Maize,Tororo,Kasese,MaizeTororoKasese,72,1.0,1.0,0.2739524923833315,1
+187,Maize,Tororo,Mbale,MaizeTororoMbale,78,1.0,1.0,1.0208654670591735,1
+188,Maize,Tororo,Soroti,MaizeTororoSoroti,56,1.0,1.0,1.0972758163963432,0
+189,Maize,Tororo,Kampala,MaizeTororoKampala,80,1.0,1.0,0.9030933435043553,1
+190,Maize,Tororo,Busia,MaizeTororoBusia,80,1.0,1.0,1.1098113623545693,1
+191,Maize,Tororo,Masindi,MaizeTororoMasindi,80,1.0,1.0,0.4897453751558668,1
+192,Maize,Tororo,Eldoret,MaizeTororoEldoret,80,1.0,1.0,0.21713718183753722,1
+193,Maize,Tororo,Kisumu,MaizeTororoKisumu,80,1.0,1.0,0.255761251726849,1
+202,Millet,Eldoret,Busia,MilletEldoretBusia,84,0.0,1.0,0.09635475675284104,0
+214,Millet,Kampala,Busia,MilletKampalaBusia,84,1.0,1.0,0.5970215079597254,1
+219,Millet,Kasese,Kabale,MilletKaseseKabale,72,1.0,1.0,0.643335656603913,0
+221,Millet,Kasese,Kampala,MilletKaseseKampala,76,1.0,1.0,0.5844372312459511,1
+222,Millet,Kasese,Busia,MilletKaseseBusia,76,0.0,1.0,0.5580137158722822,1
+227,Millet,Kisumu,Kampala,MilletKisumuKampala,91,0.0,1.0,0.287133768301102,1
+228,Millet,Kisumu,Busia,MilletKisumuBusia,84,0.0,1.0,0.3771570177547974,0
+230,Millet,Kisumu,Eldoret,MilletKisumuEldoret,91,1.0,1.0,0.1615169755435048,1
+234,Millet,Lira,Gulu,MilletLiraGulu,71,1.0,1.0,0.1538097640925319,1
+235,Millet,Masindi,Kasese,MilletMasindiKasese,71,1.0,1.0,0.6630771246882646,1
+237,Millet,Masindi,Kampala,MilletMasindiKampala,94,1.0,1.0,0.19284106827475117,1
+238,Millet,Masindi,Busia,MilletMasindiBusia,79,0.0,1.0,0.23546982513287776,1
+239,Millet,Masindi,Lira,MilletMasindiLira,91,1.0,1.0,0.19530326532138112,1
+241,Millet,Masindi,Gulu,MilletMasindiGulu,71,0.0,1.0,0.09738035894174997,1
+243,Millet,Meru,Eldoret,MilletMeruEldoret,63,0.0,1.0,0.022300347132661307,1
+246,Millet,Mulindi,Kabale,MilletMulindiKabale,86,0.0,1.0,0.1358956946442237,0
+247,Millet,Nairobi,Meru,MilletNairobiMeru,60,0.0,1.0,0.35125099088403816,0
+249,Millet,Nairobi,Kisumu,MilletNairobiKisumu,88,1.0,1.0,0.18154819002966552,0
+250,Millet,Nairobi,Kampala,MilletNairobiKampala,97,0.0,1.0,0.09957814167735299,1
+251,Millet,Nakuru,Kampala,MilletNakuruKampala,99,1.0,1.0,0.1397379746562795,1
+252,Millet,Nakuru,Meru,MilletNakuruMeru,62,0.0,0.0,0.0,1
+253,Millet,Nakuru,Eldoret,MilletNakuruEldoret,99,1.0,1.0,0.2700127139737869,0
+254,Millet,Nakuru,Kisumu,MilletNakuruKisumu,90,1.0,1.0,0.15250312697494312,1
+255,Millet,Nakuru,Nairobi,MilletNakuruNairobi,96,0.0,1.0,0.10684709374379125,1
+256,Millet,Ruhengeri,Kasese,MilletRuhengeriKasese,75,1.0,1.0,0.7217661620399222,0
+257,Millet,Ruhengeri,Mulindi,MilletRuhengeriMulindi,89,1.0,1.0,0.16977653790111774,1
+258,Millet,Ruhengeri,Kabale,MilletRuhengeriKabale,95,0.0,1.0,0.21138378440974573,0
+259,Millet,Soroti,Kasese,MilletSorotiKasese,49,0.0,1.0,0.6015423550861788,1
+260,Millet,Soroti,Kampala,MilletSorotiKampala,56,1.0,1.0,0.7038337247480283,1
+261,Millet,Soroti,Busia,MilletSorotiBusia,56,1.0,1.0,1.1272947367496373,0
+262,Millet,Soroti,Masindi,MilletSorotiMasindi,56,0.0,1.0,0.34384922790027456,1
+263,Millet,Soroti,Lira,MilletSorotiLira,56,1.0,1.0,0.6305192901681618,1
+265,Millet,Tororo,Kasese,MilletTororoKasese,73,0.0,1.0,0.5873086593998144,1
+266,Millet,Tororo,Soroti,MilletTororoSoroti,56,1.0,1.0,0.22855901382681296,1
+267,Millet,Tororo,Kampala,MilletTororoKampala,81,1.0,1.0,0.3720472370601577,1
+268,Millet,Tororo,Busia,MilletTororoBusia,81,1.0,1.0,0.34368987177601545,1
+269,Millet,Tororo,Masindi,MilletTororoMasindi,76,0.0,1.0,0.23265983638855867,1
+270,Millet,Tororo,Eldoret,MilletTororoEldoret,81,0.0,1.0,0.0,1
+271,Millet,Tororo,Kisumu,MilletTororoKisumu,81,0.0,1.0,0.3352709212468218,1
+280,Mixed Beans,Eldoret,Busia,Mixed BeansEldoretBusia,84,0.0,1.0,0.09866183732614359,1
+289,Mixed Beans,Kampala,Busia,Mixed BeansKampalaBusia,84,1.0,1.0,0.7091073926073299,0
+294,Mixed Beans,Kasese,Kabale,Mixed BeansKaseseKabale,74,1.0,1.0,0.2105152066103114,1
+295,Mixed Beans,Kasese,Kampala,Mixed BeansKaseseKampala,78,1.0,1.0,0.2176603855974177,1
+296,Mixed Beans,Kasese,Busia,Mixed BeansKaseseBusia,78,1.0,1.0,0.19996706457450444,1
+300,Mixed Beans,Kisumu,Busia,Mixed BeansKisumuBusia,82,1.0,1.0,0.42101439285575104,1
+302,Mixed Beans,Kisumu,Eldoret,Mixed BeansKisumuEldoret,84,1.0,1.0,0.2404299247821861,0
+303,Mixed Beans,Kisumu,Kampala,Mixed BeansKisumuKampala,83,1.0,1.0,0.37706897516745114,1
+304,Mixed Beans,Lira,Kampala,Mixed BeansLiraKampala,96,1.0,1.0,0.2899965704310415,1
+306,Mixed Beans,Lira,Gulu,Mixed BeansLiraGulu,51,1.0,1.0,0.819899025921284,0
+307,Mixed Beans,Masindi,Kasese,Mixed BeansMasindiKasese,78,1.0,1.0,0.17163708156517782,1
+308,Mixed Beans,Masindi,Kampala,Mixed BeansMasindiKampala,99,1.0,1.0,0.4706403903641224,0
+309,Mixed Beans,Masindi,Busia,Mixed BeansMasindiBusia,84,1.0,1.0,0.39731795736841624,0
+310,Mixed Beans,Masindi,Lira,Mixed BeansMasindiLira,96,1.0,1.0,0.5455576005572405,0
+312,Mixed Beans,Masindi,Gulu,Mixed BeansMasindiGulu,51,0.0,1.0,0.6330461187640735,0
+314,Mixed Beans,Mulindi,Kabale,Mixed BeansMulindiKabale,86,1.0,1.0,0.17606589676306753,1
+317,Mixed Beans,Ngozi,Bujumbura,Mixed BeansNgoziBujumbura,48,1.0,1.0,0.30442838522489973,1
+319,Mixed Beans,Rubavu,Bujumbura,Mixed BeansRubavuBujumbura,35,0.0,1.0,0.4275134126673057,1
+320,Mixed Beans,Rubavu,Ngozi,Mixed BeansRubavuNgozi,38,1.0,1.0,0.6271427348743446,1
+321,Mixed Beans,Ruhengeri,Kasese,Mixed BeansRuhengeriKasese,77,1.0,1.0,0.3188962920977296,1
+322,Mixed Beans,Ruhengeri,Kabale,Mixed BeansRuhengeriKabale,93,1.0,1.0,0.2808987050883006,1
+323,Mixed Beans,Ruhengeri,Ngozi,Mixed BeansRuhengeriNgozi,51,1.0,1.0,0.3442706403175254,1
+324,Mixed Beans,Ruhengeri,Rubavu,Mixed BeansRuhengeriRubavu,68,1.0,1.0,0.30626845928138724,0
+325,Mixed Beans,Ruhengeri,Mulindi,Mixed BeansRuhengeriMulindi,89,1.0,1.0,0.2863672758307264,0
+326,Mixed Beans,Tororo,Kasese,Mixed BeansTororoKasese,75,1.0,1.0,0.17395837023105729,1
+327,Mixed Beans,Tororo,Kampala,Mixed BeansTororoKampala,81,1.0,1.0,0.42793940948290715,1
+328,Mixed Beans,Tororo,Busia,Mixed BeansTororoBusia,81,1.0,1.0,0.362859933949933,1
+329,Mixed Beans,Tororo,Masindi,Mixed BeansTororoMasindi,81,1.0,1.0,0.38189145529484436,0
+330,Mixed Beans,Tororo,Eldoret,Mixed BeansTororoEldoret,81,0.0,1.0,0.1097872161182147,1
+331,Mixed Beans,Tororo,Kisumu,Mixed BeansTororoKisumu,80,0.0,1.0,0.2658200096510626,1
+336,Red Beans,Eldoret,Busia,Red BeansEldoretBusia,79,0.0,1.0,0.12077178447767353,0
+340,Red Beans,Gitega,Bujumbura,Red BeansGitegaBujumbura,95,1.0,1.0,0.6340936441634509,0
+344,Red Beans,Kamembe,Bujumbura,Red BeansKamembeBujumbura,53,1.0,1.0,0.20396377997257414,1
+346,Red Beans,Kigali,Kamembe,Red BeansKigaliKamembe,54,1.0,1.0,0.3198866888529197,0
+347,Red Beans,Kigali,Gitega,Red BeansKigaliGitega,98,1.0,1.0,0.21485452402355487,1
+355,Red Beans,Makueni,Machakos,Red BeansMakueniMachakos,55,1.0,1.0,0.8434297923636513,1
+359,Red Beans,Meru,Machakos,Red BeansMeruMachakos,46,1.0,1.0,0.2902924980911513,1
+360,Red Beans,Meru,Makueni,Red BeansMeruMakueni,54,1.0,1.0,0.401638439763898,1
+361,Red Beans,Meru,Eldoret,Red BeansMeruEldoret,49,1.0,1.0,0.4374123132710968,1
+363,Red Beans,Mombasa,Machakos,Red BeansMombasaMachakos,77,1.0,1.0,0.22142779508987254,1
+364,Red Beans,Mombasa,Makueni,Red BeansMombasaMakueni,57,1.0,1.0,0.1785709097979368,1
+366,Red Beans,Mulindi,Kigali,Red BeansMulindiKigali,90,0.0,1.0,0.08445245688409495,1
+368,Red Beans,Nairobi,Makueni,Red BeansNairobiMakueni,54,0.0,1.0,0.1673921399361433,1
+369,Red Beans,Nairobi,Mombasa,Red BeansNairobiMombasa,83,0.0,1.0,0.14087056262793882,1
+370,Red Beans,Nairobi,Machakos,Red BeansNairobiMachakos,74,0.0,1.0,0.0680106141681999,1
+371,Red Beans,Nairobi,Meru,Red BeansNairobiMeru,48,0.0,0.0,0.0,1
+372,Red Beans,Nairobi,Eldoret,Red BeansNairobiEldoret,81,0.0,1.0,0.10748159286341585,1
+373,Red Beans,Ngozi,Kamembe,Red BeansNgoziKamembe,54,0.0,1.0,0.2913807318072561,1
+374,Red Beans,Ngozi,Gitega,Red BeansNgoziGitega,98,1.0,1.0,0.4506794643427603,1
+375,Red Beans,Ngozi,Kigali,Red BeansNgoziKigali,100,1.0,1.0,0.18072760803621712,0
+377,Red Beans,Ngozi,Bujumbura,Red BeansNgoziBujumbura,95,1.0,1.0,0.26970915192840433,1
+378,Red Beans,Ruhengeri,Kigali,Red BeansRuhengeriKigali,99,1.0,1.0,0.39592757645812576,0
+379,Red Beans,Ruhengeri,Kamembe,Red BeansRuhengeriKamembe,54,1.0,1.0,0.4215888959642653,0
+380,Red Beans,Ruhengeri,Mulindi,Red BeansRuhengeriMulindi,89,1.0,1.0,0.07190082644935884,1
+381,Red Beans,Ruhengeri,Ngozi,Red BeansRuhengeriNgozi,99,1.0,1.0,0.3001702595929528,0
+393,Red Sorghum,Eldoret,Busia,Red SorghumEldoretBusia,84,0.0,1.0,0.12653859718108507,0
+398,Red Sorghum,Gitega,Bujumbura,Red SorghumGitegaBujumbura,96,1.0,1.0,0.2124974604974137,0
+407,Red Sorghum,Kamembe,Bujumbura,Red SorghumKamembeBujumbura,54,0.0,1.0,0.33997278566856154,1
+412,Red Sorghum,Kampala,Busia,Red SorghumKampalaBusia,84,1.0,1.0,0.6039989567786956,1
+417,Red Sorghum,Kasese,Kabale,Red SorghumKaseseKabale,73,1.0,1.0,0.19278773375111596,1
+419,Red Sorghum,Kasese,Kampala,Red SorghumKaseseKampala,77,1.0,1.0,0.30882523299208375,0
+420,Red Sorghum,Kasese,Busia,Red SorghumKaseseBusia,77,1.0,1.0,0.30223272086371994,0
+424,Red Sorghum,Kigali,Kamembe,Red SorghumKigaliKamembe,55,0.0,1.0,0.18060637559512266,1
+425,Red Sorghum,Kigali,Gitega,Red SorghumKigaliGitega,99,0.0,1.0,0.10264472356922436,0
+430,Red Sorghum,Kisumu,Kampala,Red SorghumKisumuKampala,92,1.0,1.0,0.19674066772894394,1
+431,Red Sorghum,Kisumu,Busia,Red SorghumKisumuBusia,84,0.0,1.0,0.19103979000582344,1
+433,Red Sorghum,Kisumu,Eldoret,Red SorghumKisumuEldoret,93,0.0,1.0,0.044603716385471975,1
+437,Red Sorghum,Lira,Gulu,Red SorghumLiraGulu,57,1.0,1.0,0.15259293226293436,1
+438,Red Sorghum,Masindi,Kasese,Red SorghumMasindiKasese,72,1.0,1.0,0.13092101141458282,1
+440,Red Sorghum,Masindi,Kampala,Red SorghumMasindiKampala,92,1.0,1.0,0.1629444250714392,0
+441,Red Sorghum,Masindi,Busia,Red SorghumMasindiBusia,79,0.0,1.0,0.1577269982429057,1
+442,Red Sorghum,Masindi,Lira,Red SorghumMasindiLira,89,0.0,1.0,0.09038111296002868,1
+444,Red Sorghum,Masindi,Gulu,Red SorghumMasindiGulu,56,0.0,1.0,0.15654483927140636,1
+445,Red Sorghum,Mulindi,Kigali,Red SorghumMulindiKigali,90,1.0,1.0,0.2008942857872771,1
+447,Red Sorghum,Mulindi,Kabale,Red SorghumMulindiKabale,86,0.0,1.0,0.20279121070816924,1
+449,Red Sorghum,Nairobi,Eldoret,Red SorghumNairobiEldoret,97,0.0,1.0,0.04173887894667033,1
+450,Red Sorghum,Nairobi,Kisumu,Red SorghumNairobiKisumu,90,1.0,1.0,0.17874152512166955,1
+451,Red Sorghum,Nairobi,Kampala,Red SorghumNairobiKampala,96,1.0,1.0,0.13691602462754562,1
+452,Red Sorghum,Nakuru,Eldoret,Red SorghumNakuruEldoret,100,0.0,1.0,0.14843281610084874,0
+453,Red Sorghum,Nakuru,Kisumu,Red SorghumNakuruKisumu,93,1.0,1.0,0.15859787485611407,1
+454,Red Sorghum,Nakuru,Nairobi,Red SorghumNakuruNairobi,97,1.0,1.0,0.18938369244434688,0
+455,Red Sorghum,Nakuru,Kampala,Red SorghumNakuruKampala,99,0.0,1.0,0.19292572468871452,1
+456,Red Sorghum,Ngozi,Kamembe,Red SorghumNgoziKamembe,55,0.0,1.0,0.048528374896094364,1
+457,Red Sorghum,Ngozi,Gitega,Red SorghumNgoziGitega,99,1.0,1.0,0.19201036466625998,0
+458,Red Sorghum,Ngozi,Kigali,Red SorghumNgoziKigali,100,0.0,1.0,0.10484496590496543,1
+460,Red Sorghum,Ngozi,Bujumbura,Red SorghumNgoziBujumbura,96,1.0,1.0,0.2388082329621888,0
+462,Red Sorghum,Rubavu,Kamembe,Red SorghumRubavuKamembe,55,0.0,1.0,0.5841021452525959,1
+463,Red Sorghum,Rubavu,Ngozi,Red SorghumRubavuNgozi,63,0.0,1.0,0.47881842637986594,0
+464,Red Sorghum,Ruhengeri,Kasese,Red SorghumRuhengeriKasese,76,0.0,1.0,0.2941643635471848,1
+465,Red Sorghum,Ruhengeri,Kabale,Red SorghumRuhengeriKabale,93,0.0,1.0,0.2900794459960257,1
+466,Red Sorghum,Ruhengeri,Kigali,Red SorghumRuhengeriKigali,97,1.0,1.0,0.2883684209026394,0
+467,Red Sorghum,Ruhengeri,Rubavu,Red SorghumRuhengeriRubavu,63,1.0,1.0,0.6175296752388141,1
+468,Red Sorghum,Ruhengeri,Mulindi,Red SorghumRuhengeriMulindi,88,1.0,1.0,0.2795906377204364,1
+469,Red Sorghum,Soroti,Kasese,Red SorghumSorotiKasese,51,1.0,1.0,0.3349233329286757,0
+470,Red Sorghum,Soroti,Kampala,Red SorghumSorotiKampala,57,1.0,1.0,0.597297233210425,1
+471,Red Sorghum,Soroti,Busia,Red SorghumSorotiBusia,57,1.0,1.0,0.8800066660046741,0
+472,Red Sorghum,Soroti,Masindi,Red SorghumSorotiMasindi,57,0.0,1.0,0.182628240213786,1
+473,Red Sorghum,Soroti,Lira,Red SorghumSorotiLira,57,1.0,1.0,0.5893366360826464,0
+475,Red Sorghum,Tororo,Kasese,Red SorghumTororoKasese,74,1.0,1.0,0.3702731743326985,0
+476,Red Sorghum,Tororo,Soroti,Red SorghumTororoSoroti,57,1.0,1.0,0.49114743606861877,1
+477,Red Sorghum,Tororo,Kampala,Red SorghumTororoKampala,81,1.0,1.0,0.44300139099272984,1
+478,Red Sorghum,Tororo,Busia,Red SorghumTororoBusia,81,1.0,1.0,0.41599597241575537,1
+479,Red Sorghum,Tororo,Masindi,Red SorghumTororoMasindi,76,1.0,1.0,0.13405268731718026,1
+480,Red Sorghum,Tororo,Eldoret,Red SorghumTororoEldoret,81,0.0,1.0,0.07346164646754912,1
+481,Red Sorghum,Tororo,Kisumu,Red SorghumTororoKisumu,81,0.0,1.0,0.1882726787133156,1
+490,Rice,Gitega,Bujumbura,RiceGitegaBujumbura,98,1.0,1.0,0.28671010270444175,1
+499,Rice,Kamembe,Bujumbura,RiceKamembeBujumbura,54,0.0,1.0,0.2842688442884984,1
+506,Rice,Kampala,Eldoret,RiceKampalaEldoret,84,0.0,1.0,0.2464673969147773,1
+508,Rice,Kasese,Kabale,RiceKaseseKabale,77,1.0,1.0,0.34228051923701197,1
+509,Rice,Kasese,Kampala,RiceKaseseKampala,78,0.0,1.0,0.4145714747861382,0
+513,Rice,Kigali,Kamembe,RiceKigaliKamembe,55,0.0,1.0,0.7567336528450123,1
+514,Rice,Kigali,Gitega,RiceKigaliGitega,99,0.0,0.0,0.0,1
+520,Rice,Kisumu,Eldoret,RiceKisumuEldoret,84,1.0,1.0,0.18630430327644618,1
+521,Rice,Kisumu,Kampala,RiceKisumuKampala,85,1.0,1.0,0.3157846555081378,1
+522,Rice,Lira,Kampala,RiceLiraKampala,96,1.0,1.0,0.29671687588375645,1
+524,Rice,Lira,Gulu,RiceLiraGulu,71,1.0,1.0,0.2165878862265018,1
+525,Rice,Masindi,Kasese,RiceMasindiKasese,77,1.0,1.0,0.3348347217226914,1
+526,Rice,Masindi,Kampala,RiceMasindiKampala,98,1.0,1.0,0.2162854982002321,1
+527,Rice,Masindi,Lira,RiceMasindiLira,95,0.0,1.0,0.19122247414703586,1
+529,Rice,Masindi,Gulu,RiceMasindiGulu,71,1.0,1.0,0.6302466162668064,0
+530,Rice,Mulindi,Kigali,RiceMulindiKigali,87,0.0,0.0,0.0,1
+532,Rice,Mulindi,Kabale,RiceMulindiKabale,86,0.0,0.0,0.0,1
+533,Rice,Nakuru,Eldoret,RiceNakuruEldoret,77,0.0,1.0,0.11336214121787953,1
+534,Rice,Nakuru,Kisumu,RiceNakuruKisumu,78,0.0,1.0,0.2468388078764418,1
+535,Rice,Nakuru,Kampala,RiceNakuruKampala,81,0.0,1.0,0.24521584128456025,1
+536,Rice,Ngozi,Kamembe,RiceNgoziKamembe,55,1.0,1.0,0.13665983376039717,1
+537,Rice,Ngozi,Gitega,RiceNgoziGitega,100,1.0,1.0,0.47486091383596174,0
+538,Rice,Ngozi,Kigali,RiceNgoziKigali,99,0.0,0.0,0.0,1
+540,Rice,Ngozi,Bujumbura,RiceNgoziBujumbura,98,1.0,1.0,0.2561973074490838,0
+541,Rice,Ruhengeri,Kasese,RiceRuhengeriKasese,77,1.0,1.0,0.37538347038539677,1
+542,Rice,Ruhengeri,Kamembe,RiceRuhengeriKamembe,55,1.0,1.0,0.4033925465444481,0
+543,Rice,Ruhengeri,Kabale,RiceRuhengeriKabale,97,0.0,1.0,0.21892522719097585,1
+544,Rice,Ruhengeri,Kigali,RiceRuhengeriKigali,98,0.0,0.0,0.0,1
+545,Rice,Ruhengeri,Ngozi,RiceRuhengeriNgozi,98,0.0,1.0,0.1320648787569074,0
+546,Rice,Ruhengeri,Mulindi,RiceRuhengeriMulindi,86,0.0,0.0,0.0,1
+547,Rice,Tororo,Kasese,RiceTororoKasese,75,1.0,1.0,0.4192544677752696,0
+548,Rice,Tororo,Kampala,RiceTororoKampala,81,1.0,1.0,0.24055402453791652,0
+549,Rice,Tororo,Masindi,RiceTororoMasindi,80,1.0,1.0,0.38505495524961125,1
+550,Rice,Tororo,Eldoret,RiceTororoEldoret,81,1.0,1.0,0.3089901060430965,0
+551,Rice,Tororo,Kisumu,RiceTororoKisumu,81,1.0,1.0,0.31331660533552513,1
+561,Soya beans,Gitega,Bujumbura,Soya beansGitegaBujumbura,83,1.0,1.0,0.2213096919755797,0
+567,Soya beans,Kamembe,Bujumbura,Soya beansKamembeBujumbura,54,1.0,1.0,0.3806884854465244,1
+571,Soya beans,Kampala,Busia,Soya beansKampalaBusia,73,1.0,1.0,0.2404326840175719,1
+575,Soya beans,Kigali,Gitega,Soya beansKigaliGitega,84,1.0,1.0,0.24986463195300218,0
+577,Soya beans,Kigali,Kamembe,Soya beansKigaliKamembe,55,1.0,1.0,0.45410485796111494,1
+581,Soya beans,Lira,Gulu,Soya beansLiraGulu,56,1.0,1.0,0.326346252001089,1
+584,Soya beans,Masindi,Kampala,Soya beansMasindiKampala,54,0.0,1.0,0.19277479326680047,1
+585,Soya beans,Masindi,Busia,Soya beansMasindiBusia,56,0.0,1.0,0.31170795321803035,1
+587,Soya beans,Masindi,Lira,Soya beansMasindiLira,55,0.0,1.0,0.22581970556756903,1
+589,Soya beans,Masindi,Gulu,Soya beansMasindiGulu,37,0.0,1.0,0.2111215004334453,1
+591,Soya beans,Mbale,Kampala,Soya beansMbaleKampala,63,1.0,1.0,0.5594268031300621,1
+592,Soya beans,Mbale,Busia,Soya beansMbaleBusia,64,1.0,1.0,0.5152878913388509,1
+593,Soya beans,Mbale,Masindi,Soya beansMbaleMasindi,50,1.0,1.0,0.3306580366119178,1
+595,Soya beans,Ngozi,Kamembe,Soya beansNgoziKamembe,55,1.0,1.0,0.4483750324806753,1
+596,Soya beans,Ngozi,Gitega,Soya beansNgoziGitega,84,1.0,1.0,0.5541747878599587,1
+597,Soya beans,Ngozi,Kigali,Soya beansNgoziKigali,84,0.0,1.0,0.1282992364489391,0
+599,Soya beans,Ngozi,Bujumbura,Soya beansNgoziBujumbura,82,1.0,1.0,0.19638148405065406,1
+601,Soya beans,Rubavu,Kamembe,Soya beansRubavuKamembe,55,0.0,1.0,0.42469448665665704,1
+602,Soya beans,Rubavu,Ngozi,Soya beansRubavuNgozi,63,0.0,1.0,0.8346645602984333,0
+603,Soya beans,Ruhengeri,Kigali,Soya beansRuhengeriKigali,83,1.0,1.0,0.16739142744304808,1
+604,Soya beans,Ruhengeri,Masindi,Soya beansRuhengeriMasindi,59,0.0,1.0,0.20364812910439595,1
+605,Soya beans,Ruhengeri,Rubavu,Soya beansRuhengeriRubavu,63,0.0,1.0,0.21599014469107902,1
+606,Soya beans,Ruhengeri,Kampala,Soya beansRuhengeriKampala,77,0.0,1.0,0.1571954224584921,1
+607,Soya beans,Soroti,Mbale,Soya beansSorotiMbale,55,1.0,1.0,0.42249023468544095,1
+608,Soya beans,Soroti,Kampala,Soya beansSorotiKampala,52,1.0,1.0,0.25473962011180734,1
+609,Soya beans,Soroti,Busia,Soya beansSorotiBusia,51,1.0,1.0,0.3488376505724783,1
+610,Soya beans,Soroti,Masindi,Soya beansSorotiMasindi,37,0.0,1.0,0.2375479942117488,1
+611,Soya beans,Soroti,Lira,Soya beansSorotiLira,57,1.0,1.0,0.4326984190721993,0
+613,Soya beans,Tororo,Mbale,Soya beansTororoMbale,60,1.0,1.0,0.7007908854915743,1
+614,Soya beans,Tororo,Soroti,Soya beansTororoSoroti,51,1.0,1.0,0.4483613168716857,0
+615,Soya beans,Tororo,Kampala,Soya beansTororoKampala,59,1.0,1.0,0.39661114225513616,1
+616,Soya beans,Tororo,Busia,Soya beansTororoBusia,57,1.0,1.0,0.7110284943802728,0
+617,Soya beans,Tororo,Masindi,Soya beansTororoMasindi,42,0.0,1.0,0.3118370216446149,1
+627,Yellow Beans,Eldoret,Busia,Yellow BeansEldoretBusia,84,1.0,1.0,0.2140954154463782,0
+632,Yellow Beans,Gitega,Bujumbura,Yellow BeansGitegaBujumbura,95,1.0,1.0,0.5006301245582183,1
+638,Yellow Beans,Kampala,Busia,Yellow BeansKampalaBusia,84,1.0,1.0,1.5167718389887943,0
+644,Yellow Beans,Kasese,Kabale,Yellow BeansKaseseKabale,70,1.0,1.0,0.362427036003756,0
+645,Yellow Beans,Kasese,Kampala,Yellow BeansKaseseKampala,77,1.0,1.0,0.3594086374664565,0
+646,Yellow Beans,Kasese,Busia,Yellow BeansKaseseBusia,77,1.0,1.0,0.275323822477487,0
+649,Yellow Beans,Kisumu,Kampala,Yellow BeansKisumuKampala,84,1.0,1.0,0.5016548777191854,0
+650,Yellow Beans,Kisumu,Busia,Yellow BeansKisumuBusia,84,1.0,1.0,0.4591639849077637,0
+652,Yellow Beans,Kisumu,Eldoret,Yellow BeansKisumuEldoret,84,0.0,1.0,0.0,1
+654,Yellow Beans,Lira,Kampala,Yellow BeansLiraKampala,96,1.0,1.0,0.2976295014683776,1
+656,Yellow Beans,Lira,Gulu,Yellow BeansLiraGulu,71,1.0,1.0,0.618133187429096,1
+658,Yellow Beans,Machakos,Eldoret,Yellow BeansMachakosEldoret,76,1.0,1.0,0.26017389343976693,1
+661,Yellow Beans,Makueni,Machakos,Yellow BeansMakueniMachakos,75,1.0,1.0,0.0,1
+662,Yellow Beans,Makueni,Eldoret,Yellow BeansMakueniEldoret,78,1.0,1.0,0.20309907061564464,0
+665,Yellow Beans,Masindi,Kasese,Yellow BeansMasindiKasese,77,1.0,1.0,0.41708583551939826,0
+666,Yellow Beans,Masindi,Kampala,Yellow BeansMasindiKampala,99,1.0,1.0,0.25803067959101705,1
+667,Yellow Beans,Masindi,Busia,Yellow BeansMasindiBusia,84,1.0,1.0,0.15334786051400232,1
+668,Yellow Beans,Masindi,Lira,Yellow BeansMasindiLira,96,1.0,1.0,0.41048617072009924,1
+670,Yellow Beans,Masindi,Gulu,Yellow BeansMasindiGulu,71,1.0,1.0,0.46737340323908594,1
+671,Yellow Beans,Mombasa,Machakos,Yellow BeansMombasaMachakos,78,1.0,1.0,0.43202386697307504,0
+672,Yellow Beans,Mombasa,Makueni,Yellow BeansMombasaMakueni,80,1.0,1.0,0.3000818230573835,1
+674,Yellow Beans,Nairobi,Makueni,Yellow BeansNairobiMakueni,77,0.0,1.0,0.10360710818050912,1
+675,Yellow Beans,Nairobi,Kampala,Yellow BeansNairobiKampala,82,1.0,1.0,0.2307795987876625,0
+676,Yellow Beans,Nairobi,Mombasa,Yellow BeansNairobiMombasa,83,0.0,1.0,0.009499213808917948,1
+677,Yellow Beans,Nairobi,Machakos,Yellow BeansNairobiMachakos,75,0.0,1.0,0.11928402995861702,1
+678,Yellow Beans,Nairobi,Eldoret,Yellow BeansNairobiEldoret,81,0.0,1.0,0.10165157051833536,1
+679,Yellow Beans,Nairobi,Kisumu,Yellow BeansNairobiKisumu,81,0.0,1.0,0.07834288378826769,1
+680,Yellow Beans,Ngozi,Gitega,Yellow BeansNgoziGitega,98,1.0,1.0,0.42734926858759525,1
+681,Yellow Beans,Ngozi,Bujumbura,Yellow BeansNgoziBujumbura,96,1.0,1.0,0.49008244227579223,0
+682,Yellow Beans,Tororo,Kasese,Yellow BeansTororoKasese,71,1.0,1.0,0.2522122788350129,0
+683,Yellow Beans,Tororo,Kampala,Yellow BeansTororoKampala,78,1.0,1.0,0.4179188996118942,1
+684,Yellow Beans,Tororo,Busia,Yellow BeansTororoBusia,78,1.0,1.0,0.5639101963964839,1
+685,Yellow Beans,Tororo,Masindi,Yellow BeansTororoMasindi,78,1.0,1.0,0.24340711991355637,1
+686,Yellow Beans,Tororo,Eldoret,Yellow BeansTororoEldoret,78,1.0,1.0,0.2413419668911112,0
+687,Yellow Beans,Tororo,Kisumu,Yellow BeansTororoKisumu,78,1.0,1.0,0.4803793929186331,0

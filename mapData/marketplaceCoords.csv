@@ -1,0 +1,62 @@
+﻿market_id,market,country,Combined,Latitude,Longitude,market_id
+2,Arusha,Tanzania,"Arusha, Tanzania",-3.386925,36.682993,2
+3,Babati,Tanzania,"Babati, Tanzania",-4.038438,35.827996,3
+4,Bujumbura,Burundi,"Bujumbura, Burundi",-3.361378,29.359878,4
+5,Bukavu,DRC,"Bukavu, DRC",-2.50316,28.85309,5
+6,Busia,Uganda,"Busia, Uganda",0.470669,34.09198,6
+7,Dar es salaam,Tanzania,"Dar es salaam, Tanzania",-6.792354,39.208328,7
+8,Dodoma,Tanzania,"Dodoma, Tanzania",-6.162959,35.751607,8
+9,Eldoret,Kenya,"Eldoret, Kenya",0.514277,35.26978,9
+10,Gicumbi,Rwanda,"Gicumbi, Rwanda",-1.76971,29.94208,10
+11,Gitega,Burundi,"Gitega, Burundi",-3.428803,29.924903,11
+12,Goma,DRC,"Goma, DRC",-1.6835,29.2356,12
+13,Gulu,Uganda,"Gulu, Uganda",2.772404,32.288073,13
+14,Iringa,Tanzania,"Iringa, Tanzania",-7.768059,35.686072,14
+15,Juba,South Sudan,"Juba, South Sudan",4.859363,31.57125,15
+16,Kabale,Uganda,"Kabale, Uganda",-1.241956,29.985616,16
+17,Kamembe,Rwanda,"Kamembe, Rwanda",-2.462016,28.907371,17
+18,Kampala,Uganda,"Kampala, Uganda",0.347596,32.58252,18
+19,Kasese,Uganda,"Kasese, Uganda",0.169899,30.078078,19
+20,Kasumbalesa,DRC,"Kasumbalesa, DRC",-11.93209,28.7919,20
+21,Kicukiro,Rwanda,"Kicukiro, Rwanda",1.98076,30.104811,21
+22,Kigali,Rwanda,"Kigali, Rwanda",-1.970579,30.104429,22
+23,Kigoma,Tanzania,"Kigoma, Tanzania",-4.88615,29.638321,23
+24,Kimironko,Rwanda,"Kimironko, Rwanda",-1.936238,30.13006,24
+25,Kisumu,Kenya,"Kisumu, Kenya",-0.091702,34.767957,25
+26,Kitale,Kenya,"Kitale, Kenya",1.01837,35.00283,26
+27,Kiyanzi,Rwanda,"Kiyanzi, Rwanda",-2.37639,30.77019,27
+28,Kolwezi,DRC,"Kolwezi, DRC",-10.71127,25.45542,28
+29,Likasi,DRC,"Likasi, DRC",-10.98272,26.73759,29
+30,Lira,Uganda,"Lira, Uganda",2.258083,32.887407,30
+31,Lubumbashi,DRC,"Lubumbashi, DRC",-11.63224,27.46064,31
+32,Machakos,Kenya,"Machakos, Kenya",-1.517684,37.263415,32
+33,Magwi,South Sudan,"Magwi, South Sudan",3.6045568,31.0619749,33
+34,Makueni,Kenya,"Makueni, Kenya",-1.786495,37.631107,34
+35,Masindi,Uganda,"Masindi, Uganda",1.687313,31.713846,35
+36,Mbale,Uganda,"Mbale, Uganda",1.078444,34.181006,36
+37,Mbeya,Tanzania,"Mbeya, Tanzania",-8.909401,33.460774,37
+38,Meru,Kenya,"Meru, Kenya",0.051472,37.645604,38
+39,Mombasa,Kenya,"Mombasa, Kenya",-4.043477,39.668207,39
+40,Morobo,South Sudan,"Morobo, South Sudan",3.6838016,30.7716965,40
+41,Morogoro,Tanzania,"Morogoro, Tanzania",-6.82824,37.667789,41
+42,Moshi,Tanzania,"Moshi, Tanzania",-3.34882,37.343151,42
+43,Mulindi,Rwanda,"Mulindi, Rwanda",-1.477311,30.041967,43
+44,Musoma,Tanzania,"Musoma, Tanzania",-1.4997,33.806351,44
+45,Mwanza,Tanzania,"Mwanza, Tanzania",-2.51788,32.8991,45
+46,Nairobi,Kenya,"Nairobi, Kenya",-1.292066,36.821945,46
+47,Nakuru,Kenya,"Nakuru, Kenya",-0.28149,36.078419,47
+48,Ngozi,Burundi,"Ngozi, Burundi",-2.91084,29.82443,48
+49,Owino,Uganda,"Owino, Uganda",0.31569,32.57811,49
+50,Rubavu,Rwanda,"Rubavu, Rwanda",-1.69026,29.295179,50
+51,Ruhengeri,Rwanda,"Ruhengeri, Rwanda",-1.50442,29.63516,51
+52,Ruhuha,Rwanda,"Ruhuha, Rwanda",-2.30838,30.0535,52
+53,Songea,Tanzania,"Songea, Tanzania",-10.66551,35.645039,53
+54,Soroti,Uganda,"Soroti, Uganda",1.71553,33.610088,54
+55,Tanga,Tanzania,"Tanga, Tanzania",-5.07013,39.104931,55
+56,Tororo,Uganda,"Tororo, Uganda",0.69313,34.181,56
+57,Tunduma,Tanzania,"Tunduma, Tanzania",-9.30806,32.77507,57
+58,Uvira,DRC,"Uvira, DRC",-3.38413,29.1415,58
+59,Yei,South Sudan,"Yei, South Sudan",-4.0907777,30.6590807,59
+,,,,,,
+,,,Min,-11.93209,25.45542,
+,,,Max,4.859363,39.668207,

@@ -1,0 +1,2 @@
+configuredSrc Data comes from nowcasting, tools. Then is filtered through Tableau.
+RATIN20211014 comes from RATIN scraper python script.
